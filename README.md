@@ -1,7 +1,7 @@
 # Felipe Fioreti Rosolen
 <br>
 
-Olá! Sou Felipe, estudante de tecnologia formado em Informática para Internet. Tenho experiência em desenvolvimento de sistemas e web, adquirida durante meu TCC. Atualmente, me aprofundo ainda mais em meus estudos através de cursos, como o IT Essentials da Cisco, e busco estou sempre em busca de novos conhecimentos para me desenvolver cada vez mais.
+Olá! Sou Felipe, estudante de tecnologia formado em Informática para Internet. Tenho experiência em desenvolvimento de sistemas e web, adquirida durante meu TCC. Atualmente, me aprofundo ainda mais em meus estudos aprimorando minha lógica de programação atráves de exercícios no LeetCode e desenvolvendo projetos, buscando sempre por novos conhecimentos para me desenvolver cada vez mais.
 
 ### 🛠️ **Competências Principais:**
 - **Linguagens:** JavaScript, C, C#
